@@ -1,0 +1,10 @@
+export const SIGNED_IN = 'SIGNED_IN';
+export const SIGNED_OUT = 'SIGNED_OUT';
+export const SIGNIN_FAILED = 'SIGNIN_FAILED';
+
+export const FETCH_GOALS = 'FETCH_GOALS';
+export const CREATE_GOAL = 'CREATE_GOAL';
+export const FETCH_COMPLETE_GOALS = 'FETCH_COMPLETE_GOALS';
+export const DELETE_ALL_COMPLETE = 'DELETE_ALL_COMPLETE';
+export const SET_GOALS = 'SET_GOALS';
+export const SET_COMPLETED_GOALS = 'SET_COMPLETED_GOALS';
